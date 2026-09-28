@@ -1,0 +1,11 @@
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\MyCompiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\MyCompiler.AssemblyInfoInputs.cache
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\MyCompiler.AssemblyInfo.cs
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\MyCompiler.csproj.CoreCompileInputs.cache
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\bin\Debug\net8.0\MyCompiler.deps.json
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\bin\Debug\net8.0\MyCompiler.dll
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\bin\Debug\net8.0\MyCompiler.pdb
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\MyCompiler.dll
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\refint\MyCompiler.dll
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\MyCompiler.pdb
+D:\Programmer\C#\Compilers Design Lab\MyCompiler\MyCompiler\obj\Debug\net8.0\ref\MyCompiler.dll

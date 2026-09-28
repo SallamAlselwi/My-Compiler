@@ -1,0 +1,15 @@
+﻿ints x = 2*8/3-2+9;
+ints y;
+
+ifs(x<20)
+{
+	y=100;
+}
+ints hh = 0;
+
+
+whiles(x < 0){
+hh = hh+1;
+
+x =x-1;
+}

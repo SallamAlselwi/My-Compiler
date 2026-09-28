@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "MyCompiler": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "MyCompiler/1.0.0": {
+        "runtime": {
+          "MyCompiler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCompiler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
