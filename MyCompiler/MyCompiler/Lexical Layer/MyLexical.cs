@@ -51,6 +51,7 @@ namespace MyCompiler.Lexical_Layer
             }
             tokens.Add(new Token(TokenType.EOF, "", line, current - 1));
 
+            streamReader.Close();
             return tokens;
         }
 
@@ -119,7 +120,12 @@ namespace MyCompiler.Lexical_Layer
                     tokens.Add(new Token(TokenType.GREATER, "<", line, current));
                     break;
                 case '/':
-                    tokens.Add(new Token(TokenType.DIVIDE, "/", line, current));
+                    if (Peek() == '/')
+                    {
+                        current = source.Length;
+                    }
+                    else
+                        tokens.Add(new Token(TokenType.DIVIDE, "/", line, current));
                     break;
                 case '*':
                     tokens.Add(new Token(TokenType.MULTIPLY, "*", line, current));

@@ -19,3 +19,25 @@ D:\Programmer\C#\Compilers Design Lab\WinFormsApp1\obj\Debug\net8.0-windows\WinF
 D:\Programmer\C#\Compilers Design Lab\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\Programmer\C#\Compilers Design Lab\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
 D:\Programmer\C#\Compilers Design Lab\WinFormsApp1\bin\Debug\net8.0-windows\TextFile1.txt
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\TextFile1.txt
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\MyCompiler.dll
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\bin\Debug\net8.0-windows\MyCompiler.pdb
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Programmer\C#\Compilers Design Lab\New folder\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmResult.resources

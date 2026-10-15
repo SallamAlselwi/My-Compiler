@@ -1,29 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programmer\\C#\\Compilers Design Lab\\WinFormsApp1\\",
+  "WorkspaceRootPath": "D:\\Programmer\\C#\\Compilers Design Lab\\New folder\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E3C188-68C6-41C0-B44F-BA0A22F57B95}|WinFormsApp1.csproj|d:\\programmer\\c#\\compilers design lab\\winformsapp1\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F5E3C188-68C6-41C0-B44F-BA0A22F57B95}|WinFormsApp1.csproj|solutionrelative:textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5E3C188-68C6-41C0-B44F-BA0A22F57B95}|WinFormsApp1.csproj|d:\\programmer\\c#\\compilers design lab\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5E3C188-68C6-41C0-B44F-BA0A22F57B95}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4285C7E3-8671-4667-B61D-B5605CBE96F2}|..\\MyCompiler\\MyCompiler\\MyCompiler.csproj|d:\\programmer\\c#\\compilers design lab\\mycompiler\\mycompiler\\generation layer\\myinstructiongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4285C7E3-8671-4667-B61D-B5605CBE96F2}|..\\MyCompiler\\MyCompiler\\MyCompiler.csproj|d:\\programmer\\c#\\compilers design lab\\mycompiler\\mycompiler\\generation layer\\mycodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4285C7E3-8671-4667-B61D-B5605CBE96F2}|..\\MyCompiler\\MyCompiler\\MyCompiler.csproj|d:\\programmer\\c#\\compilers design lab\\mycompiler\\mycompiler\\generation layer\\myregistermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4285C7E3-8671-4667-B61D-B5605CBE96F2}|..\\MyCompiler\\MyCompiler\\MyCompiler.csproj|d:\\programmer\\c#\\compilers design lab\\mycompiler\\mycompiler\\generation layer\\mytargetcodeemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4285C7E3-8671-4667-B61D-B5605CBE96F2}|..\\MyCompiler\\MyCompiler\\MyCompiler.csproj|d:\\programmer\\c#\\compilers design lab\\mycompiler\\mycompiler\\optimazation layer\\mycodeoptimizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5E3C188-68C6-41C0-B44F-BA0A22F57B95}|WinFormsApp1.csproj|d:\\programmer\\c#\\compilers design lab\\new folder\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E3C188-68C6-41C0-B44F-BA0A22F57B95}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,89 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TextFile1.txt",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\WinFormsApp1\\TextFile1.txt",
-              "RelativeDocumentMoniker": "TextFile1.txt",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\WinFormsApp1\\TextFile1.txt",
-              "RelativeToolTip": "TextFile1.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-09-26T18:29:05.467Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\WinFormsApp1\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\New folder\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\WinFormsApp1\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABIAAACgmZmZmZklwCwAAAAOAAAA",
+              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\New folder\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T18:17:07.212Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyInstructionGenerator.cs",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyInstructionGenerator.cs",
-              "RelativeDocumentMoniker": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyInstructionGenerator.cs",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyInstructionGenerator.cs",
-              "RelativeToolTip": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyInstructionGenerator.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAmwEkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:50:19.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyRegisterManager.cs",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyRegisterManager.cs",
-              "RelativeDocumentMoniker": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyRegisterManager.cs",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyRegisterManager.cs",
-              "RelativeToolTip": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyRegisterManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:49:45.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyTargetCodeEmitter.cs",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyTargetCodeEmitter.cs",
-              "RelativeDocumentMoniker": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyTargetCodeEmitter.cs",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyTargetCodeEmitter.cs",
-              "RelativeToolTip": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyTargetCodeEmitter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:48:41.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyCodeGenerator.cs",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyCodeGenerator.cs",
-              "RelativeDocumentMoniker": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyCodeGenerator.cs",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Generation Layer\\MyCodeGenerator.cs",
-              "RelativeToolTip": "..\\MyCompiler\\MyCompiler\\Generation Layer\\MyCodeGenerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T18:47:02.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MyCodeOptimizer.cs",
-              "DocumentMoniker": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Optimazation Layer\\MyCodeOptimizer.cs",
-              "RelativeDocumentMoniker": "..\\MyCompiler\\MyCompiler\\Optimazation Layer\\MyCodeOptimizer.cs",
-              "ToolTip": "D:\\Programmer\\C#\\Compilers Design Lab\\MyCompiler\\MyCompiler\\Optimazation Layer\\MyCodeOptimizer.cs",
-              "RelativeToolTip": "..\\MyCompiler\\MyCompiler\\Optimazation Layer\\MyCodeOptimizer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T19:31:01.181Z"
+              "WhenOpened": "2026-10-04T13:11:09.723Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

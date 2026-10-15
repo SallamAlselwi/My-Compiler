@@ -14,6 +14,10 @@ namespace MyCompiler.Common
         {
             errors.Add(new CompilerError(message, line, column));
         }
+        public void ClearAll()
+        {
+            errors.Clear();
+        }
         public bool HasErrors()
         {
             return errors.Count > 0;

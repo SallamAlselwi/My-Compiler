@@ -1,15 +1,10 @@
-﻿ints x = 2*8/3-2+9;
+ints x=100;
 ints y;
 
-ifs(x<20)
+ifs(x>90)
 {
-	y=100;
+  y=50;
 }
-ints hh = 0;
-
-
-whiles(x < 0){
-hh = hh+1;
-
-x =x-1;
+else{
+  y=200;
 }

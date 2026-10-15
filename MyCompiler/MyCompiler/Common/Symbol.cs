@@ -51,6 +51,10 @@ namespace MyCompiler.Common
 
             return true;
         }
+        public void ClearAll()
+        {
+            symbols.Clear();
+        }
         public bool Exists(string name)
         {
             return symbols.ContainsKey(name);
